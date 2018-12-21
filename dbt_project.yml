@@ -12,7 +12,7 @@ macro-paths: ["macros"]
 quoting:
   identifier: false
 
-target-path: "target"
+target-path: "../../../usr/src/app"
 clean-targets:
     - "target"
     - "dbt_modules"
