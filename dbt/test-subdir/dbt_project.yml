@@ -1,7 +1,7 @@
 name: 'talk'
 version: '1.0'
 
-profile: 'talk'
+profile: 'postgres'
 
 source-paths: ["models"]
 analysis-paths: ["analysis"]
