@@ -3,8 +3,6 @@
 with
   moby_dick as (select * from {{ref('moby_dick_base')}})
 , words as (
-
-  abcdefg
   select
 
     word.value::string as word,
