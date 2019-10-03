@@ -21,3 +21,5 @@ select
   *
 
 from words
+
+limit 100
